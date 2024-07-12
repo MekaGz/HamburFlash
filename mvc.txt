@@ -1,0 +1,3 @@
+DESKTOP-CU4QVG0\SQLEXPRESS
+
+Scaffold-DbContext "server=DESKTOP-CU4QVG0\SQLEXPRESS;database=Almacen_hamburgueseria;Trusted_Connection=True; TrustServerCertificate=True; Encrypt=false;" Microsoft.EntityFrameworkCore.SqlServer - OutPutDir Models

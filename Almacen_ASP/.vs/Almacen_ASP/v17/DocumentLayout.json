@@ -1,0 +1,229 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mekag\\Downloads\\DIARSOF\\DIARSOF\\DIARSO_F\\Almacen_ASP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2BACA256-AAE9-48A4-8AF2-B5DB4A5584B1}|Almacen_ASP\\Almacen_ASP.csproj|c:\\users\\mekag\\downloads\\diarsof\\diarsof\\diarso_f\\almacen_asp\\almacen_asp\\views\\proveedors\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2BACA256-AAE9-48A4-8AF2-B5DB4A5584B1}|Almacen_ASP\\Almacen_ASP.csproj|solutionrelative:almacen_asp\\views\\proveedors\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BACA256-AAE9-48A4-8AF2-B5DB4A5584B1}|Almacen_ASP\\Almacen_ASP.csproj|c:\\users\\mekag\\downloads\\diarsof\\diarsof\\diarso_f\\almacen_asp\\almacen_asp\\views\\productoes\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2BACA256-AAE9-48A4-8AF2-B5DB4A5584B1}|Almacen_ASP\\Almacen_ASP.csproj|solutionrelative:almacen_asp\\views\\productoes\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BACA256-AAE9-48A4-8AF2-B5DB4A5584B1}|Almacen_ASP\\Almacen_ASP.csproj|c:\\users\\mekag\\downloads\\diarsof\\diarsof\\diarso_f\\almacen_asp\\almacen_asp\\views\\compras\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2BACA256-AAE9-48A4-8AF2-B5DB4A5584B1}|Almacen_ASP\\Almacen_ASP.csproj|solutionrelative:almacen_asp\\views\\compras\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BACA256-AAE9-48A4-8AF2-B5DB4A5584B1}|Almacen_ASP\\Almacen_ASP.csproj|c:\\users\\mekag\\downloads\\diarsof\\diarsof\\diarso_f\\almacen_asp\\almacen_asp\\views\\alertums\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2BACA256-AAE9-48A4-8AF2-B5DB4A5584B1}|Almacen_ASP\\Almacen_ASP.csproj|solutionrelative:almacen_asp\\views\\alertums\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BACA256-AAE9-48A4-8AF2-B5DB4A5584B1}|Almacen_ASP\\Almacen_ASP.csproj|c:\\users\\mekag\\downloads\\diarsof\\diarsof\\diarso_f\\almacen_asp\\almacen_asp\\views\\proveedors\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2BACA256-AAE9-48A4-8AF2-B5DB4A5584B1}|Almacen_ASP\\Almacen_ASP.csproj|solutionrelative:almacen_asp\\views\\proveedors\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BACA256-AAE9-48A4-8AF2-B5DB4A5584B1}|Almacen_ASP\\Almacen_ASP.csproj|c:\\users\\mekag\\downloads\\diarsof\\diarsof\\diarso_f\\almacen_asp\\almacen_asp\\views\\productoes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2BACA256-AAE9-48A4-8AF2-B5DB4A5584B1}|Almacen_ASP\\Almacen_ASP.csproj|solutionrelative:almacen_asp\\views\\productoes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BACA256-AAE9-48A4-8AF2-B5DB4A5584B1}|Almacen_ASP\\Almacen_ASP.csproj|c:\\users\\mekag\\downloads\\diarsof\\diarsof\\diarso_f\\almacen_asp\\almacen_asp\\views\\compras\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2BACA256-AAE9-48A4-8AF2-B5DB4A5584B1}|Almacen_ASP\\Almacen_ASP.csproj|solutionrelative:almacen_asp\\views\\compras\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BACA256-AAE9-48A4-8AF2-B5DB4A5584B1}|Almacen_ASP\\Almacen_ASP.csproj|c:\\users\\mekag\\downloads\\diarsof\\diarsof\\diarso_f\\almacen_asp\\almacen_asp\\views\\alertums\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2BACA256-AAE9-48A4-8AF2-B5DB4A5584B1}|Almacen_ASP\\Almacen_ASP.csproj|solutionrelative:almacen_asp\\views\\alertums\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BACA256-AAE9-48A4-8AF2-B5DB4A5584B1}|Almacen_ASP\\Almacen_ASP.csproj|c:\\users\\mekag\\downloads\\diarsof\\diarsof\\diarso_f\\almacen_asp\\almacen_asp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2BACA256-AAE9-48A4-8AF2-B5DB4A5584B1}|Almacen_ASP\\Almacen_ASP.csproj|solutionrelative:almacen_asp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BACA256-AAE9-48A4-8AF2-B5DB4A5584B1}|Almacen_ASP\\Almacen_ASP.csproj|c:\\users\\mekag\\downloads\\diarsof\\diarsof\\diarso_f\\almacen_asp\\almacen_asp\\controllers\\proveedorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BACA256-AAE9-48A4-8AF2-B5DB4A5584B1}|Almacen_ASP\\Almacen_ASP.csproj|solutionrelative:almacen_asp\\controllers\\proveedorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BACA256-AAE9-48A4-8AF2-B5DB4A5584B1}|Almacen_ASP\\Almacen_ASP.csproj|c:\\users\\mekag\\downloads\\diarsof\\diarsof\\diarso_f\\almacen_asp\\almacen_asp\\models\\almacenhamburgueseriacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BACA256-AAE9-48A4-8AF2-B5DB4A5584B1}|Almacen_ASP\\Almacen_ASP.csproj|solutionrelative:almacen_asp\\models\\almacenhamburgueseriacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BACA256-AAE9-48A4-8AF2-B5DB4A5584B1}|Almacen_ASP\\Almacen_ASP.csproj|c:\\users\\mekag\\downloads\\diarsof\\diarsof\\diarso_f\\almacen_asp\\almacen_asp\\controllers\\productoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BACA256-AAE9-48A4-8AF2-B5DB4A5584B1}|Almacen_ASP\\Almacen_ASP.csproj|solutionrelative:almacen_asp\\controllers\\productoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BACA256-AAE9-48A4-8AF2-B5DB4A5584B1}|Almacen_ASP\\Almacen_ASP.csproj|c:\\users\\mekag\\downloads\\diarsof\\diarsof\\diarso_f\\almacen_asp\\almacen_asp\\models\\compra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BACA256-AAE9-48A4-8AF2-B5DB4A5584B1}|Almacen_ASP\\Almacen_ASP.csproj|solutionrelative:almacen_asp\\models\\compra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\mekag\\Downloads\\DIARSOF\\DIARSOF\\DIARSO_F\\Almacen_ASP\\Almacen_ASP\\Views\\Alertums\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Almacen_ASP\\Views\\Alertums\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\mekag\\Downloads\\DIARSOF\\DIARSOF\\DIARSO_F\\Almacen_ASP\\Almacen_ASP\\Views\\Alertums\\Delete.cshtml",
+              "RelativeToolTip": "Almacen_ASP\\Views\\Alertums\\Delete.cshtml",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-12T17:33:07.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\mekag\\Downloads\\DIARSOF\\DIARSOF\\DIARSO_F\\Almacen_ASP\\Almacen_ASP\\Views\\Proveedors\\Create.cshtml",
+              "RelativeDocumentMoniker": "Almacen_ASP\\Views\\Proveedors\\Create.cshtml",
+              "ToolTip": "C:\\Users\\mekag\\Downloads\\DIARSOF\\DIARSOF\\DIARSO_F\\Almacen_ASP\\Almacen_ASP\\Views\\Proveedors\\Create.cshtml",
+              "RelativeToolTip": "Almacen_ASP\\Views\\Proveedors\\Create.cshtml",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAAAMAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-12T17:28:56.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\mekag\\Downloads\\DIARSOF\\DIARSOF\\DIARSO_F\\Almacen_ASP\\Almacen_ASP\\Views\\Productoes\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Almacen_ASP\\Views\\Productoes\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\mekag\\Downloads\\DIARSOF\\DIARSOF\\DIARSO_F\\Almacen_ASP\\Almacen_ASP\\Views\\Productoes\\Delete.cshtml",
+              "RelativeToolTip": "Almacen_ASP\\Views\\Productoes\\Delete.cshtml",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAAAgAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-12T17:20:45.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\mekag\\Downloads\\DIARSOF\\DIARSOF\\DIARSO_F\\Almacen_ASP\\Almacen_ASP\\Views\\Productoes\\Create.cshtml",
+              "RelativeDocumentMoniker": "Almacen_ASP\\Views\\Productoes\\Create.cshtml",
+              "ToolTip": "C:\\Users\\mekag\\Downloads\\DIARSOF\\DIARSOF\\DIARSO_F\\Almacen_ASP\\Almacen_ASP\\Views\\Productoes\\Create.cshtml",
+              "RelativeToolTip": "Almacen_ASP\\Views\\Productoes\\Create.cshtml",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAAEAAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-12T17:17:07.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\mekag\\Downloads\\DIARSOF\\DIARSOF\\DIARSO_F\\Almacen_ASP\\Almacen_ASP\\Views\\Proveedors\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Almacen_ASP\\Views\\Proveedors\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\mekag\\Downloads\\DIARSOF\\DIARSOF\\DIARSO_F\\Almacen_ASP\\Almacen_ASP\\Views\\Proveedors\\Delete.cshtml",
+              "RelativeToolTip": "Almacen_ASP\\Views\\Proveedors\\Delete.cshtml",
+              "ViewState": "AQIAAGYAAAAAAAAAAAAAADMAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-12T17:24:20.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\mekag\\Downloads\\DIARSOF\\DIARSOF\\DIARSO_F\\Almacen_ASP\\Almacen_ASP\\Views\\Compras\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Almacen_ASP\\Views\\Compras\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\mekag\\Downloads\\DIARSOF\\DIARSOF\\DIARSO_F\\Almacen_ASP\\Almacen_ASP\\Views\\Compras\\Delete.cshtml",
+              "RelativeToolTip": "Almacen_ASP\\Views\\Compras\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-12T17:24:29.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\mekag\\Downloads\\DIARSOF\\DIARSOF\\DIARSO_F\\Almacen_ASP\\Almacen_ASP\\Views\\Compras\\Create.cshtml",
+              "RelativeDocumentMoniker": "Almacen_ASP\\Views\\Compras\\Create.cshtml",
+              "ToolTip": "C:\\Users\\mekag\\Downloads\\DIARSOF\\DIARSOF\\DIARSO_F\\Almacen_ASP\\Almacen_ASP\\Views\\Compras\\Create.cshtml",
+              "RelativeToolTip": "Almacen_ASP\\Views\\Compras\\Create.cshtml",
+              "ViewState": "AQIAADEAAAAAAAAAAAAAADUAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-12T17:29:05.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\mekag\\Downloads\\DIARSOF\\DIARSOF\\DIARSO_F\\Almacen_ASP\\Almacen_ASP\\Views\\Alertums\\Create.cshtml",
+              "RelativeDocumentMoniker": "Almacen_ASP\\Views\\Alertums\\Create.cshtml",
+              "ToolTip": "C:\\Users\\mekag\\Downloads\\DIARSOF\\DIARSOF\\DIARSO_F\\Almacen_ASP\\Almacen_ASP\\Views\\Alertums\\Create.cshtml",
+              "RelativeToolTip": "Almacen_ASP\\Views\\Alertums\\Create.cshtml",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAADEAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-12T16:51:01.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProveedorsController.cs",
+              "DocumentMoniker": "C:\\Users\\mekag\\Downloads\\DIARSOF\\DIARSOF\\DIARSO_F\\Almacen_ASP\\Almacen_ASP\\Controllers\\ProveedorsController.cs",
+              "RelativeDocumentMoniker": "Almacen_ASP\\Controllers\\ProveedorsController.cs",
+              "ToolTip": "C:\\Users\\mekag\\Downloads\\DIARSOF\\DIARSOF\\DIARSO_F\\Almacen_ASP\\Almacen_ASP\\Controllers\\ProveedorsController.cs",
+              "RelativeToolTip": "Almacen_ASP\\Controllers\\ProveedorsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T09:51:23.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\mekag\\Downloads\\DIARSOF\\DIARSOF\\DIARSO_F\\Almacen_ASP\\Almacen_ASP\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Almacen_ASP\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\mekag\\Downloads\\DIARSOF\\DIARSOF\\DIARSO_F\\Almacen_ASP\\Almacen_ASP\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Almacen_ASP\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-11T09:42:40.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProductoesController.cs",
+              "DocumentMoniker": "C:\\Users\\mekag\\Downloads\\DIARSOF\\DIARSOF\\DIARSO_F\\Almacen_ASP\\Almacen_ASP\\Controllers\\ProductoesController.cs",
+              "RelativeDocumentMoniker": "Almacen_ASP\\Controllers\\ProductoesController.cs",
+              "ToolTip": "C:\\Users\\mekag\\Downloads\\DIARSOF\\DIARSOF\\DIARSO_F\\Almacen_ASP\\Almacen_ASP\\Controllers\\ProductoesController.cs",
+              "RelativeToolTip": "Almacen_ASP\\Controllers\\ProductoesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T09:40:10.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Compra.cs",
+              "DocumentMoniker": "C:\\Users\\mekag\\Downloads\\DIARSOF\\DIARSOF\\DIARSO_F\\Almacen_ASP\\Almacen_ASP\\Models\\Compra.cs",
+              "RelativeDocumentMoniker": "Almacen_ASP\\Models\\Compra.cs",
+              "ToolTip": "C:\\Users\\mekag\\Downloads\\DIARSOF\\DIARSOF\\DIARSO_F\\Almacen_ASP\\Almacen_ASP\\Models\\Compra.cs",
+              "RelativeToolTip": "Almacen_ASP\\Models\\Compra.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T09:32:47.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AlmacenHamburgueseriaContext.cs",
+              "DocumentMoniker": "C:\\Users\\mekag\\Downloads\\DIARSOF\\DIARSOF\\DIARSO_F\\Almacen_ASP\\Almacen_ASP\\Models\\AlmacenHamburgueseriaContext.cs",
+              "RelativeDocumentMoniker": "Almacen_ASP\\Models\\AlmacenHamburgueseriaContext.cs",
+              "ToolTip": "C:\\Users\\mekag\\Downloads\\DIARSOF\\DIARSOF\\DIARSO_F\\Almacen_ASP\\Almacen_ASP\\Models\\AlmacenHamburgueseriaContext.cs",
+              "RelativeToolTip": "Almacen_ASP\\Models\\AlmacenHamburgueseriaContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T09:31:54.737Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
